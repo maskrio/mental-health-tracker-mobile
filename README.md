@@ -1,5 +1,7 @@
 # mental_health_tracker
 
+https://install.appcenter.ms/orgs/pbpti/apps/mental-health-tracker-tutorial/distribution_groups/public/releases/1
+
 A new Flutter project.
 
 ## Getting Started
